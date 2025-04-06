@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 
-st.title('Streamlit Hello World') # タイトル
+st.title('こんにちわ') # タイトル
 
 df = pd.DataFrame({
     '1列目': [1, 2, 3, 4],
