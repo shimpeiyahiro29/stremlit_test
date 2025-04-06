@@ -10,7 +10,7 @@ city_code_list = {
     "福岡":"400010"
 }
 # 選択肢のデフォルトを設定
-city_code_index = "東京都"
+city_code_index = "大阪"
 
 
 st.title("天気アプリ") # タイトル
