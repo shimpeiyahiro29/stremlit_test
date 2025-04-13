@@ -23,7 +23,7 @@ messages = [
         {
             "role": "user",
             "content": (
-                f"{text}"
+                text
             ),
         },
     ]
