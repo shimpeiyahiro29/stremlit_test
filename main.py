@@ -33,6 +33,5 @@ response = client.chat.completions.create(
             messages=messages,
 )
 
-if
 response.choices[0].message.content# テキスト表示
 
